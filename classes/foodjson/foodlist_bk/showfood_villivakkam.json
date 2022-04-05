@@ -1,0 +1,170 @@
+[
+   {
+      "id":"52",
+      "foodName":"CARAMEL POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_caramel.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"54",
+      "foodName":"STEAM CORN",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_steamcorn.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"55",
+      "foodName":"NACHOS CHIPS",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_nachos.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"56",
+      "foodName":"COKE REGULAR",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_coke.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"57",
+      "foodName":"WATER 1L",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_water.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"58",
+      "foodName":"CARDAMOM TEA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_cardamomtea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"59",
+      "foodName":"COLD COFFEE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_coldcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"60",
+      "foodName":"VEG SANDWICH - TANDOORI MAYO",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_vegsandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"61",
+      "foodName":"FRENCH FRIES",
+      "foodPrice":"80",
+      "foodImage":"Food_jan21_fries.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"62",
+      "foodName":"MINI SAMOSA",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_samosa.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"63",
+      "foodName":"ICE CREAM - VANILLA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_singlevanilla.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"64",
+      "foodName":"ICE CREAM - CHOCOLATE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_singlechocolate.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"65",
+      "foodName":"MILK SHAKE - VANILLA",
+      "foodPrice":"110",
+      "foodImage":"Food_jan21_vanillamilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"66",
+      "foodName":"MILK SHAKE - CHOCOLATE",
+      "foodPrice":"130",
+      "foodImage":"Food_jan21_chocolatemilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"67",
+      "foodName":"GREEN TEA PURE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_greentea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"68",
+      "foodName":"HOT COFFEE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_hotcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"69",
+      "foodName":"REGULAR POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_regpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"70",
+      "foodName":"LARGE POPCORN",
+      "foodPrice":"140",
+      "foodImage":"Food_jan21_larpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"71",
+      "foodName":"ICE TEA LEMON",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_icetea.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"72",
+      "foodName":"PERI PERI FRIES",
+      "foodPrice":"90",
+      "foodImage":"Food_jan21_periperi.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"73",
+      "foodName":"CHICKEN SANDWICH",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_chickensandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"74",
+      "foodName":"FRIES - CHICKEN NUGGETS",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_nuggets.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"75",
+      "foodName":"DOUBLE SCOOP VANILLA\r\n",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_doublevanilla.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"76",
+      "foodName":"DOUBLE SCOOP CHOCOLATE\r\n",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_doublechocolate.jpg",
+      "foodType":"Foods"
+   }
+]

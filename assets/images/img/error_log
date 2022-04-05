@@ -1,0 +1,3 @@
+[01-Dec-2017 13:31:10 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/agscinemas/public_html/images/img/ticket.php on line 12
+[01-Dec-2017 13:31:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agscinemas/public_html/images/img/ticket.php:2) in /home/agscinemas/public_html/images/img/ticket.php on line 116
+[01-Dec-2017 13:31:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agscinemas/public_html/images/img/ticket.php:2) in /home/agscinemas/public_html/images/img/ticket.php on line 117

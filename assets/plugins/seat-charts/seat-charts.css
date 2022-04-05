@@ -1,0 +1,34 @@
+div.seatCharts-cell {
+	height: 16px;
+	width: 16px;
+	margin: 3px;
+	display:inline-block;
+	text-align: center;
+	outline: none;
+	font-size: 13px;
+	line-height:16px;
+}
+div.seatCharts-seat {
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+div.seatCharts-row:after {
+	clear: both;
+}
+
+div.seatCharts-seat.unavailable, div.seatCharts-seat.socialdistance {
+	background-color:transparent;
+	cursor: not-allowed;
+}
+
+ul.seatCharts-legendList {	
+	list-style: none;
+	padding-left: 0px;
+}
+
+li.seatCharts-legendItem {
+	margin-top: 10px;
+	line-height: 2;
+}

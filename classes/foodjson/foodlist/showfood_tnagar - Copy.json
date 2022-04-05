@@ -1,0 +1,219 @@
+[
+   {
+      "id": "1",
+      "foodName": "REGULAR POPCORN",
+      "foodPrice": "190",
+      "foodImage": "1_popcorn_regular.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "2",
+      "foodName": "LARGE POPCORN",
+      "foodPrice": "260",
+      "foodImage": "2_Popcorn_large.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "3",
+      "foodName": "CARAMEL POPCORN",
+      "foodPrice": "190",
+      "foodImage": "3_caramel popcorn.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "4",
+      "foodName": "ADD ON BUTTER",
+      "foodPrice": "20",
+      "foodImage": "4_amul butter.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "5",
+      "foodName": "REGULAR COKE",
+      "foodPrice": "190",
+      "foodImage": "5_coke_regular.jpg",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "6",
+      "foodName": "REGULAR SPRITE",
+      "foodPrice": "190",
+      "foodImage": "6_sprite_regular.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "7",
+      "foodName": "REGULAR FANTA",
+      "foodPrice": "190",
+      "foodImage": "7_fanta_regular. png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "8",
+      "foodName": "VEG SANDWICH - TANDOORI MAYO",
+      "foodPrice": "160",
+      "foodImage": "7_sandwich_tandoori mayo .png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "9",
+      "foodName": "VEG SANDWICH - CHILLI",
+      "foodPrice": "160",
+      "foodImage": "8_sandwich_chilli cheese.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "10",
+      "foodName": "CHICKEN SANDWICH",
+      "foodPrice": "180",
+      "foodImage": "10_sandwich_chicken.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "11",
+      "foodName": "CHICKEN BURGER",
+      "foodPrice": "200",
+      "foodImage": "11_burger_chicken1.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "12",
+      "foodName": "FRENCH FRIES",
+      "foodPrice": "140",
+      "foodImage": "12_french fries.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "13",
+      "foodName": "PERI PERI FRIES",
+      "foodPrice": "160",
+      "foodImage": "13_peri peri Fries.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "14",
+      "foodName": "MINI SAMOSA",
+      "foodPrice": "160",
+      "foodImage": "14_samosa mini .png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "15",
+      "foodName": "CHICKEN NUGGETS",
+      "foodPrice": "180",
+      "foodImage": "15_chicken nuggets.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "16",
+      "foodName": "NACHOS CHIPS",
+      "foodPrice": "180",
+      "foodImage": "16_nachos chips .png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "17",
+      "foodName": "STEAMED CORN",
+      "foodPrice": "120",
+      "foodImage": "17_steamed corn.png",
+      "foodType": "Foods"
+   },
+   {
+      "id": "18",
+      "foodName": "WATER BOTTLE",
+      "foodPrice": "50",
+      "foodImage": "18_water bottle_750ml .png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "19",
+      "foodName": "COLD COFEE",
+      "foodPrice": "130",
+      "foodImage": "19_cold coffee.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "20",
+      "foodName": "ICE TEA LEMON",
+      "foodPrice": "130",
+      "foodImage": "20_iced tea-Lemon.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "21",
+      "foodName": "HOT COFFEE",
+      "foodPrice": "100",
+      "foodImage": "21_hot coffee .png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "22",
+      "foodName": "HOT CARDAMOM TEA",
+      "foodPrice": "100",
+      "foodImage": "22_hot cardamom tea.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "23",
+      "foodName": "HOT LEMON TEA",
+      "foodPrice": "100",
+      "foodImage": "23_hot lemon tea.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "24",
+      "foodName": "HOT GREEN TEA",
+      "foodPrice": "100",
+      "foodImage": "24_hot green tea.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "25",
+      "foodName": "HOT CHOCOLATE",
+      "foodPrice": "130",
+      "foodImage": "25_hot chocolate .png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "26",
+      "foodName": "VANILLA ICE CREAM SINGLE SCOOP",
+      "foodPrice": "120",
+      "foodImage": "26_single scoop vanilla.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "27",
+      "foodName": "CHOCOLATE ICE CREAM SINGLE SCOOP",
+      "foodPrice": "120",
+      "foodImage": "27_single scoop_chocolate .png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "28",
+      "foodName": "VANILLA ICE CREAM DOUBLE SCOOP",
+      "foodPrice": "190",
+      "foodImage": "28_double scoop_vanilla.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "29",
+      "foodName": "CHOCOLATE ICE CREAM DOUBLE SCOOP",
+      "foodPrice": "190",
+      "foodImage": "29_double scoop_chocolate.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "30",
+      "foodName": "VANILLA MILK SHAKE",
+      "foodPrice": "210",
+      "foodImage": "30_milk shake _vanilla.png",
+      "foodType": "Beverages"
+   },
+   {
+      "id": "29",
+      "foodName": "CHOCOLATE MILK SHAKE",
+      "foodPrice": "210",
+      "foodImage": "31_milk Shake_Chocolate.png",
+      "foodType": "Beverages"
+   }
+]

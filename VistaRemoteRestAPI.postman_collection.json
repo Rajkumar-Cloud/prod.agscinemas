@@ -1,0 +1,549 @@
+{
+	"info": {
+		"_postman_id": "1efef356-c94f-4380-ad94-dd636b30a27e",
+		"name": "VistaRemoteRestAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SynchData",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44328/api/VistaRemote/SynchData",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44328",
+					"path": [
+						"api",
+						"VistaRemote",
+						"SynchData"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InitBook",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CinemaId\": \"3\"\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/InitBook",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"InitBook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetSeatLayOut",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CinemaId\": \"0001\",\n  \"TempTransId\": \"\",\n  \"SessionId\": 30305,\n  \"ScreenOnTop\": true,\n  \"ExtendedProperty\": true\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/GetSeatLayOut",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"GetSeatLayOut"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddSeats",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CinemaId\": \"0001\",\n  \"TempTransId\": \"20000003233\",\n  \"SessionId\": 30305,\n  \"TicketType\": 0002,\n  \"Qty\":1,\n  \"UserSelectedSeats\": false\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/AddSeats",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"AddSeats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/SetSeats",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/SetSeats",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"SetSeats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/AddConcessions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/AddConcessions",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"AddConcessions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/SetFnbPickupOrDelivery",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/SetFnbPickupOrDelivery",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"SetFnbPickupOrDelivery"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/SetFnbPickupOrDeliveryEx",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/SetFnbPickupOrDeliveryEx",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"SetFnbPickupOrDeliveryEx"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/CancelConcessions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/CancelConcessions",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"CancelConcessions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ContinueTrans",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CinemaId\": \"0001\",\n  \"TempTransId\": \"20000003233\"\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/ContinueTrans",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"ContinueTrans"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CancelTrans",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CinemaId\": \"0001\",\n  \"TempTransId\": \"20000003233\"\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/CancelTrans",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"CancelTrans"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/CommitTrans",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/CommitTrans",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"CommitTrans"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CommitTrans copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"CinemaId\": \"0001\",\r\n  \"TempTransId\": \"20000003198\",\r\n  \"SessionId\": 30276,\r\n    \"PaymentInfo\": {\r\n        \"CardNumber\": \"4111111111111111\",\r\n        \"CardType\": \"MT\",\r\n        \"CardExpiryMonth\": \"12\",\r\n        \"CardExpiryYear\": \"2020\",\r\n        \"PaymentValueCents\": 25300,\r\n        \"PaymentSystemId\": \"-\",\r\n        \"CardCVC\": \"111\",\r\n        \"MultiPaymentDetails\": \" |PAYTYPE1=MT|AMOUNT1=1200|PAYTYPE2=AB00000012|AMOUNT2=4200|\"\r\n    },\r\n    \"Comment\": \"Test\",\r\n    \"PhoneNo\": \"9769169639\",\r\n    \"PickupName\": \"Suresh\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:44328/api/VistaRemote/CommitTrans",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44328",
+					"path": [
+						"api",
+						"VistaRemote",
+						"CommitTrans"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/VerifyBooking",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/VerifyBooking",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"VerifyBooking"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VerifyBooking copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"CinemaId\": \"0001\",\r\n  \"lngBookingId\": 290\r\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/BookingStatus",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"BookingStatus"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "BookingStatus copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"CinemaId\": \"0001\",\r\n  \"lngBookingId\": 89\r\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/CancelBook",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"CancelBook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CommitTrans copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"CinemaId\": \"0001\",\r\n  \"lngBookingId\": 89,\r\n  \"SessionId\": 30305,\r\n    \"PaymentInfo\": {\r\n      \"AmounPaid\": 270,\r\n        \"CardNumber\": \"4111111111111111\",\r\n        \"CardExpiryMonth\": \"12\",\r\n        \"CardExpiryYear\": \"2020\",\r\n        \"NameOnCard\": \"Suraj Kadam\"\r\n    },\r\n    \"Comment\": \"Test\",\r\n    \"PhoneNo\": \"9029902940\",\r\n    \"PickupName\": \"Suraj Kadam\"\r\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/UnpaidToPaid",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"UnpaidToPaid"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://49.207.181.204:8080/api/VistaRemote/GetPickupStream",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/GetPickupStream",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"GetPickupStream"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPickupStream copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"CinemaId\": \"0001\",\r\n  \"lngBookingId\": 89,\r\n  \"PrintCount\": 1,\r\n    \"CardNumber\": \"4111111111111111\",\r\n    \"strBookingId\": \"WJSSKLH\"\r\n}"
+				},
+				"url": {
+					"raw": "http://49.207.181.204:8080/api/VistaRemote/BookingCollected",
+					"protocol": "http",
+					"host": [
+						"49",
+						"207",
+						"181",
+						"204"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"VistaRemote",
+						"BookingCollected"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

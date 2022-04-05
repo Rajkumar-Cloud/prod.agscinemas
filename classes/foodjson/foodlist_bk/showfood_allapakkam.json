@@ -1,0 +1,170 @@
+[
+   {
+      "id":"152",
+      "foodName":"CARAMEL POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_caramel.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"154",
+      "foodName":"STEAM CORN",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_steamcorn.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"155",
+      "foodName":"NACHOS CHIPS",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_nachos.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"156",
+      "foodName":"COKE REGULAR",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_coke.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"157",
+      "foodName":"WATER 1L",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_water.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"158",
+      "foodName":"CARDAMOM TEA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_cardamomtea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"159",
+      "foodName":"COLD COFFEE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_coldcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"160",
+      "foodName":"VEG SANDWICH - TANDOORI MAYO",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_vegsandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"161",
+      "foodName":"FRENCH FRIES",
+      "foodPrice":"80",
+      "foodImage":"Food_jan21_fries.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"162",
+      "foodName":"MINI SAMOSA",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_samosa.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"163",
+      "foodName":"ICE CREAM - VANILLA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_singlevanilla.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"164",
+      "foodName":"ICE CREAM - CHOCOLATE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_singlechocolate.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"165",
+      "foodName":"MILK SHAKE - VANILLA",
+      "foodPrice":"110",
+      "foodImage":"Food_jan21_vanillamilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"166",
+      "foodName":"MILK SHAKE - CHOCOLATE",
+      "foodPrice":"130",
+      "foodImage":"Food_jan21_chocolatemilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"167",
+      "foodName":"GREEN TEA PURE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_greentea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"168",
+      "foodName":"HOT COFFEE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_hotcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"169",
+      "foodName":"REGULAR POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_regpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"170",
+      "foodName":"LARGE POPCORN",
+      "foodPrice":"140",
+      "foodImage":"Food_jan21_larpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"171",
+      "foodName":"ICE TEA LEMON",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_icetea.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"172",
+      "foodName":"PERI PERI FRIES",
+      "foodPrice":"90",
+      "foodImage":"Food_jan21_periperi.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"173",
+      "foodName":"CHICKEN SANDWICH",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_chickensandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"174",
+      "foodName":"FRIES - CHICKEN NUGGETS",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_nuggets.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"175",
+      "foodName":"DOUBLE SCOOP VANILLA",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_doublevanilla.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"176",
+      "foodName":"DOUBLE SCOOP CHOCOLATE",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_doublechocolate.jpg",
+      "foodType":"Foods"
+   }
+]

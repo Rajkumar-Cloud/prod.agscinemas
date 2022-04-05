@@ -1,0 +1,170 @@
+[
+   {
+      "id":"2",
+      "foodName":"CARAMEL POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_caramel.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"4",
+      "foodName":"STEAM CORN",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_steamcorn.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"5",
+      "foodName":"NACHOS CHIPS",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_nachos.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"6",
+      "foodName":"COKE REGULAR",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_coke.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"7",
+      "foodName":"WATER 1L",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_water.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"8",
+      "foodName":"CARDAMOM TEA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_cardamomtea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"9",
+      "foodName":"COLD COFFEE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_coldcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"10",
+      "foodName":"VEG SANDWICH - TANDOORI MAYO",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_vegsandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"11",
+      "foodName":"FRENCH FRIES",
+      "foodPrice":"80",
+      "foodImage":"Food_jan21_fries.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"12",
+      "foodName":"MINI SAMOSA",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_samosa.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"13",
+      "foodName":"ICE CREAM - VANILLA",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_singlevanilla.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"14",
+      "foodName":"ICE CREAM - CHOCOLATE",
+      "foodPrice":"70",
+      "foodImage":"Food_jan21_singlechocolate.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"15",
+      "foodName":"MILK SHAKE - VANILLA",
+      "foodPrice":"110",
+      "foodImage":"Food_jan21_vanillamilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"16",
+      "foodName":"MILK SHAKE - CHOCOLATE",
+      "foodPrice":"130",
+      "foodImage":"Food_jan21_chocolatemilkshake.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"17",
+      "foodName":"GREEN TEA PURE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_greentea.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"18",
+      "foodName":"HOT COFFEE",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_hotcoffee.jpg",
+      "foodType":"Beverages"
+   },
+   {
+      "id":"19",
+      "foodName":"REGULAR POPCORN",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_regpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"20",
+      "foodName":"LARGE POPCORN",
+      "foodPrice":"140",
+      "foodImage":"Food_jan21_larpopcorn.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"21",
+      "foodName":"ICE TEA LEMON",
+      "foodPrice":"60",
+      "foodImage":"Food_jan21_icetea.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"22",
+      "foodName":"PERI PERI FRIES",
+      "foodPrice":"90",
+      "foodImage":"Food_jan21_periperi.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"23",
+      "foodName":"CHICKEN SANDWICH",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_chickensandwich.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"24",
+      "foodName":"FRIES - CHICKEN NUGGETS",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_nuggets.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"25",
+      "foodName":"DOUBLE SCOOP VANILLA",
+      "foodPrice":"100",
+      "foodImage":"Food_jan21_doublevanilla.jpg",
+      "foodType":"Foods"
+   },
+   {
+      "id":"26",
+      "foodName":"DOUBLE SCOOP CHOCOLATE",
+      "foodPrice":"120",
+      "foodImage":"Food_jan21_doublechocolate.jpg",
+      "foodType":"Foods"
+   }
+]

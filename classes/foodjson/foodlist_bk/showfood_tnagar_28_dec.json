@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1",
+        "foodName": "POPCORN TUB",
+        "foodPrice": "100",
+        "foodImage": "popcorn_tub_offer.jpg",
+        "foodType": "Foods"
+    },
+    {
+        "id": "2",
+        "foodName": "CARAMEL POPCORN",
+        "foodPrice": "75",
+        "foodImage": "caramel_popcorn_offer.jpg",
+        "foodType": "Foods"
+    },
+    {
+        "id": "4",
+        "foodName": "STEAM CORN",
+        "foodPrice": "60",
+        "foodImage": "steamcorn_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "5",
+        "foodName": "Nachos Chips",
+        "foodPrice": "95",
+        "foodImage": "Nachos_offer.jpg",
+        "foodType": "Foods"
+    },
+    {
+        "id": "6",
+        "foodName": "COKE REGULAR",
+        "foodPrice": "80",
+        "foodImage": "coke_regular_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "7",
+        "foodName": "WATER 750ML",
+        "foodPrice": "50",
+        "foodImage": "water.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "8",
+        "foodName": "CARDAMOM TEA",
+        "foodPrice": "60",
+        "foodImage": "cardamomtea_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "9",
+        "foodName": "COLD COFFEE",
+        "foodPrice": "60",
+        "foodImage": "coldcoffee_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "13",
+        "foodName": "ICE CREAM - VANILLA",
+        "foodPrice": "50",
+        "foodImage": "singlescoop_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "14",
+        "foodName": "ICE CREAM -  CHOCOLATE",
+        "foodPrice": "50",
+        "foodImage": "singlescoop_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "15",
+        "foodName": "MILK SHAKE - VANILLA",
+        "foodPrice": "80",
+        "foodImage": "milkshake_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "16",
+        "foodName": "MILK SHAKE - CHOCOLATE",
+        "foodPrice": "80",
+        "foodImage": "milkshake_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "17",
+        "foodName": "GREEN TEA PURE",
+        "foodPrice": "60",
+        "foodImage": "greentea_offer.jpg",
+        "foodType": "Beverages"
+    },
+    {
+        "id": "18",
+        "foodName": "HOT COFFEE",
+        "foodPrice": "60",
+        "foodImage": "coffee_offer.jpg",
+        "foodType": "Beverages"
+    }
+]

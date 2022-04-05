@@ -1,0 +1,23 @@
+<?php
+   // clear and unset session values
+   session_start();   
+   unset($_SESSION['movie_Name']);
+   unset($_SESSION['movie_Language']);
+   unset($_SESSION['movie_Censor']);
+   unset($_SESSION['movie_Genre']);
+   unset($_SESSION['movie_runTime']);
+   unset($_SESSION['movie_location']);
+   unset($_SESSION['movie_showtime']);
+   unset($_SESSION['movie_date']);
+   unset($_SESSION['movie_screen']);
+   unset($_SESSION['movie_tickvalue']);
+   unset($_SESSION['movie_seat']);
+   unset($_SESSION['movie_amt']);
+   unset($_SESSION['status']);
+   unset($_SESSION['session_email']);
+   unset($_SESSION['session_name']);
+   unset($_SESSION['session_mobile']);
+   unset($_SESSION['sess_seatrowid']);
+   unset($_SESSION['food_id']);
+   unset($_SESSION['count_num']);
+?>

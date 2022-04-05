@@ -1,0 +1,45 @@
+========================= MOBILE APP API COLLECTION ===================================
+
+	---------------------------------------------------------------------------------
+
+	Movie Poster API [Home page Slider images and Theater Slider Images] : https://www.agscinemas.com/api/movie/movie_poster.php 
+	Method : GET
+
+	---------------------------------------------------------------------------------
+
+	Forgot Password API : https://www.agscinemas.com/api/user/forgot_password.php
+	Method : POST
+	params : email
+
+	---------------------------------------------------------------------------------
+
+	Reset Password API : https://www.agscinemas.com/api/user/reset_password.php
+	Method : POST
+	params : email, password, auth_token
+
+	---------------------------------------------------------------------------------
+
+
+        User Login API : https://www.agscinemas.com/api/user/login.php
+	Method : POST
+	params : email, password
+
+	---------------------------------------------------------------------------------
+
+
+	User Register API : https://www.agscinemas.com/api/user/register.php
+	Method : POST
+	params : name, email, mobile, password
+
+	---------------------------------------------------------------------------------
+
+
+	User Mobile OTP Verification API : https://www.agscinemas.com/api/user/otp-verify.php
+	Method : POST
+	params : mobile, otp
+
+	---------------------------------------------------------------------------------
+
+
+
+========================= MOBILE APP API COLLECTION END ===============================
